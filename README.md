@@ -1,4 +1,4 @@
-# Phishing URL Detector with Enhanced Features
+# Phishing URL Detector
 
 A comprehensive, multi-layered phishing detection system that combines lexical analysis, machine learning, live web crawling, and QR code scanning to identify malicious URLs and quishing attacks.
 
